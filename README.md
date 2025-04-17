@@ -7,7 +7,7 @@
 ![Backend](https://img.shields.io/badge/Backend-Spring-orange)
 ![Database](https://img.shields.io/badge/Database-MySQL-green)
 
----
+--- 
 
 ## 👀 I’m interested in:
 - Building scalable and efficient web applications  
