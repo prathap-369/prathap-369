@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm @prathap-369 (Venkata Prathap)
+# 👋 Hi there, I'm Venkata Prathap
 
 ![Profile Views](https://komarev.com/ghpvc/?username=prathap-369&style=flat-square)
 ![GitHub followers](https://img.shields.io/github/followers/prathap-369?style=social)
@@ -34,7 +34,7 @@
 
 ## 📫 How to reach me:
 - 📧 Email: [jvprathap.2024@gmail.com]   
-- 💼 LinkedIn: ([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/j-v-prathap-87a084277/)) *(replace with your actual link)*  
+- 💼 LinkedIn: ([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/j-v-prathap-87a084277/)) 
 - 🌐 Portfolio/Website: https://prathaptech-portfolio.netlify.app/
 
 ---
